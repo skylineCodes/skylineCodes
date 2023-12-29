@@ -5,6 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Lagos, Nigeria
+* 🖥️  See my portfolio at [here](http://www.onakoyakorede.cc/)
 * ✉️  You can contact me at [onakoyak@gmail.com](mailto:onakoyak@gmail.com)
 * 🚀  I'm currently working on [Reservation App with Nestjs in a microservice architecture](http://github.com/skylineCodes/reservation-microservices-nestjs)
 * 🧠  I'm learning Rust programming language and also preparing for my AWS Solution Architect exams
