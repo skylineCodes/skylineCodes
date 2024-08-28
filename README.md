@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [here](http://www.onakoyakorede.cc/)
 * ✉️  You can contact me at [onakoyak@gmail.com](mailto:onakoyak@gmail.com)
-* 🚀  I'm currently working on [Kettl-Commerce E-commerce API]([http://github.com/skylineCodes/reservation-microservices-nestjs](https://github.com/skylineCodes/kettl-commerce)
+* 🚀  I'm currently working on [Kettl-Commerce E-commerce API]([(https://github.com/skylineCodes/kettl-commerce)])
 * 🧠  I'm learning Rust programming language and also preparing for my AWS Solution Architect exams
 * 🤝  I'm open to collaborating on React.js, Next.js, Node.js, Nest.js, TypeScript projects
 * ⚡  I have a newsletter, you should subscribe - https://skylinecodes.substack.com/
